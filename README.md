@@ -11,7 +11,7 @@
   
  
 
-I'm a Fresh graduate Software Developer Who is passionate about AI and Machine Learning aiming for creating technology to make the Woorld Better Place.
+I'm a Fresh graduate Software Developer Who is passionate about AI and Machine Learning aiming for creating technology to make the World Better Place.
 
 
 <p align="center" >
