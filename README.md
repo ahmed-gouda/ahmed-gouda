@@ -14,8 +14,7 @@
 I'm a Fresh graduate Software Developer Who is passionate about AI and Machine Learning aiming for creating technology to make the World Better Place.
 
 
-<p align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-gouda&show_icons=true&locale=en" alt="ahmed-gouda" alt="ahmed-gouda" /></p>
+
 <p align="center" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-gouda&" alt="ahmed-gouda" /></p>
 
