@@ -11,7 +11,9 @@
   
  
 
-I'm a Fresh graduate Software Developer Who is passionate about AI and Machine Learning aiming for creating technology to make the World Better Place.
+I recently graduated from the Faculty of Information Technology and Computer Science. I have a keen interest in Artificial Intelligence and Machine Learning, trying to find a 
+suitable opportunity to show my abilities and skills. I am excited to be a part of this 
+exciting field and contribute to its growth and development.
 
 
 
